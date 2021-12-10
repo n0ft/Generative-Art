@@ -1,2 +1,2 @@
 # Generative-Art
-My art projects requires that I integrate p5js Generative Art with reactjs.
+My art projects requires that p5js Generative Art integrate with reactjs.
